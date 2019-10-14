@@ -3,12 +3,12 @@
 # Black and pink theme
 #
 black-and-pink:
-  accent-color: "#E45E65"
+  accent-color: "#FF558F"
   dark-primary-color: "var(--accent-color)"
   disabled-text-color: "#7F848E"
   divider-color: "rgba(0, 0, 0, .12)"
   google-green-500: "#39E949"
-  google-red-500: "#E45E65"
+  google-red-500: "#FF558F"
   label-badge-background-color: "#2E333A"
   label-badge-border-color: "green"
   label-badge-red: "var(--accent-color)"
@@ -46,7 +46,7 @@ black-and-pink:
   primary-color: "#484A4C"
   primary-text-color: "#FFFFFF"
   secondary-background-color: "#383C45"
-  secondary-text-color: "#5294E2"
+  secondary-text-color: "#FF558F"
   sidebar-icon-color: "var(--primary-color)"
   sidebar-selected-icon-color: "var(--primary-text-color)"
   sidebar-selected-text-color: "var(--primary-text-color)"
